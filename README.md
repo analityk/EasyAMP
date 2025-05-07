@@ -1,0 +1,2 @@
+# EasyAMP
+Dokumentacja do projektu 
